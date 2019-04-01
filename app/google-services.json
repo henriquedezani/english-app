@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "29369642523",
+    "firebase_url": "https://fatec-english-app.firebaseio.com",
+    "project_id": "fatec-english-app",
+    "storage_bucket": "fatec-english-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29369642523:android:c34caa4fe4463df7",
+        "android_client_info": {
+          "package_name": "br.edu.fatecriopreto.dezani.english_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29369642523-vbll3djfpu9u4m9tvf2ifvglaunq4mmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYv2kQhWRk9FdH92txqfLJDCLLdB8rrcQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29369642523:android:2264d14dd9d13419",
+        "android_client_info": {
+          "package_name": "br.edu.fatecriopreto.dezani.englishapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29369642523-or42ii580vol8qg2mfbgfs5t0l1e5and.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.edu.fatecriopreto.dezani.englishapp",
+            "certificate_hash": "456c4990f6016315f615821005b9e8f3eef333d3"
+          }
+        },
+        {
+          "client_id": "29369642523-vbll3djfpu9u4m9tvf2ifvglaunq4mmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYv2kQhWRk9FdH92txqfLJDCLLdB8rrcQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29369642523-vbll3djfpu9u4m9tvf2ifvglaunq4mmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
